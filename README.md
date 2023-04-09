@@ -1,7 +1,7 @@
 # Magnetic Framework Expansion Card
 This is the CAD for a magnetic expansion card for the Framework Laptop meant for the HiBee [USB-C extender](https://www.amazon.com/dp/B0BPSNZVQ2?ref_=cm_sw_r_apan_dp_720X9VD6VYGHR5Z3DRAP). This is still a bit of a WIP project but it works pretty well so feel free to download it and give it a shot if you'd like! The only tip I have is to put a small bit of ductape over top of the card where the top of the extension is visibile so keep it from sliding around.
 
-As far as the acctual magnetic charger bit you should be able to use any one which you think best suits your needs.
+As far as the acctual magnetic charger bit you should be able to use any one which you think best suits your needs. I'll post the link to the one which I'm using as soon as I can I just have to go scrolling though my Amazon history to find it.
 
 One other quick note: Sorry if the CAD is a bit messy, this is one of my first proper projects so I'm still trying to get used to it and figure out how it all works. Feel free to reach out if you have any other questions or suggestions!
 
